@@ -48,7 +48,7 @@ I will really appreciate if you have anything to suggest or something to correct
 
  So, You Can First Generate The Key And Send The Key To Your Friend Or Your Friend Being A Client Can Also Generate Key And Send It To You.
 
-[] How Key Is Generate ?
+[] How Key Is Generated ?
 
  It Will Be Generated Automatically When You Run Server / Client For First Time, However You Need To Undestand That Both Client And Server Needs 
  A Same Key So Only Key Of One Should Be Used.
